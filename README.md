@@ -4,7 +4,6 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan produk **
 
 🔗 **[Klik di sini untuk membuka aplikasi Streamlit](https://sentiment-analysis-on-tokopedia-mka.streamlit.app/)**
 
-> Gantilah URL di atas dengan tautan aplikasi Streamlit Anda yang sebenarnya.
 
 ## 📁 Struktur Proyek
 
