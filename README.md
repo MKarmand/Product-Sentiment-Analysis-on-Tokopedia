@@ -2,8 +2,6 @@
 
 Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan produk **LocknLock** di Tokopedia. Proses ini melibatkan tahap pembersihan data, pelabelan berbasis leksikon, ekstraksi fitur, penyeimbangan data, pelatihan model menggunakan algoritma **Multilayer Perceptron (MLP)**, serta evaluasi model.
 
-🔗 **[Klik di sini untuk membuka aplikasi Streamlit](https://share.streamlit.io/username/nama-aplikasi/main/app.py)**
-
 ## 📁 Struktur Proyek
 
 ### 🔹 1. Pra-pemrosesan Data
@@ -46,6 +44,7 @@ Pelabelan dilakukan berdasarkan skor leksikal:
 
 Aplikasi ini dapat dijalankan langsung secara online melalui Streamlit:
 
+🔗 **[Klik di sini untuk membuka aplikasi Streamlit](https://share.streamlit.io/username/nama-aplikasi/main/app.py)**
 
 > Gantilah URL di atas dengan tautan aplikasi Streamlit Anda yang sebenarnya.
 
